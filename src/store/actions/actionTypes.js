@@ -1,0 +1,4 @@
+export const START_LOADING = "START_LOADING";
+export const STOP_LOADING = "STOP_LOADING";
+export const STORE_ITEMS = "STORE_ITEMS";
+export const STORE_SELECTED_ITEM = "STORE_SELECTED_ITEM";
